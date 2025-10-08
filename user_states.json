@@ -1,0 +1,30 @@
+{
+  "567126052": {
+    "path": "initial:chapter1:grade7:science:arabic:malazem",
+    "mid": 647
+  },
+  "605535662": {
+    "path": {
+      "chapter": "F1",
+      "grade": "G5",
+      "subject": "science",
+      "lang": "ar"
+    },
+    "mid": 253,
+    "last_message_id": 388,
+    "stage": "NAV",
+    "mode": null
+  },
+  "8382579657": {
+    "path": "initial:chapter1:grade7:science:arabic:teacher_guide",
+    "mid": 237
+  },
+  "5528164183": {
+    "path": "initial:chapter1:grade7:science:arabic:teacher_guide",
+    "mid": 258
+  },
+  "8221612674": {
+    "path": "initial:chapter1:grade7:science:arabic:malazem",
+    "mid": 656
+  }
+}

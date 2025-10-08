@@ -1,0 +1,142 @@
+{
+  "chapter_grades.grade_5_to_10_subjects.language_choice.material_types": [
+    {
+      "file_id": "BQACAgQAAxkBAANAaN7Xf0F_ZnGzzJSKrYCdPjIOEhIAAkEYAAKuDfFSmhoq8MGVKpk2BA",
+      "file_name": "اللافلزات.pdf"
+    }
+  ],
+  "chapter_grades_grade_5_to_10_subjects_language_choice_material_types_material_files": [
+    {
+      "file_id": "BQACAgQAAxkBAANGaN7Y6V2dTVq85BRqEG3hwpQBAAHYAAJCGAACrg3xUuGSl2gqve1tNgQ",
+      "file_name": "اشباه الفلزات.pdf"
+    }
+  ],
+  "chapter1_grade7_science_arabic_malazem": [
+    {
+      "file_id": "BQACAgQAAxkBAANMaN7aW2NV0r3Vwr-fsz6BpAh-2C4AAkUYAAKuDfFSB8NeZna3nEc2BA",
+      "file_name": "الفلزات.pdf"
+    }
+  ],
+  "initial:chapter1:grade5:science:physics:arabic:malazem": [
+    {
+      "file_name": "اشباه الفلزات.docx",
+      "file_id": "BQACAgQAAxkBAANdaN7b5weFNclFfZnUgCBpumaA5iIAAkkYAAKuDfFSo_ZPkR98iJA2BA"
+    }
+  ],
+  "initial:chapter1:grade5:science:arabic:malazem": [],
+  "initial:chapter3:grade9:science:arabic": [
+    {
+      "id": "BQACAgQAAxkBAAN_aN7d8nlCvEzNLm0TtFx_jSJs2wEAAkwYAAKuDfFSQEUAAdCyYe_uNgQ",
+      "name": "اللافلزات.pdf"
+    }
+  ],
+  "initial": {
+    "chapter1": {
+      "grade5": {
+        "science": {
+          "arabic": []
+        }
+      },
+      "grade7": {
+        "science": {
+          "arabic": [
+            {
+              "name": "2-أسس الكيمياء - سابع.pdf",
+              "id": "BQACAgQAAxkBAAO7aN7kSHYII30s7FJcSewH4UIVIBUAAlQYAAKuDfFSpUWU4zTvbdw2BA"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "initial:chapter1:grade7:science:arabic:teacher_guide": [
+    {
+      "file_id": "BQACAgQAAxkBAAPuaN7qNla_J0yNZwso3Asm-c4SoggAAnQXAAKuDflSsejnMYuql6Y2BA",
+      "file_name": "3-فهم الذرة - سابع.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAPvaN7qNuG1pq-SfMpzWamhsDxuL1UAAnUXAAKuDflSzl9MnTJwqWA2BA",
+      "file_name": "التفسيرات العلمية.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAPwaN7qNnNtKubfZyxkGno1YTvIem8AAnYXAAKuDflSDMqGDm-MIZs2BA",
+      "file_name": "الجدول الدوري.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAP3aN7qk14HFj0KwxvxElwvNMO_kfgAAngXAAKuDflSahFPnh2XsBU2BA",
+      "file_name": "2-أسس الكيمياء - سابع.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAP4aN7qk5QK44B8-mDxdzcbVooM4o0AAnkXAAKuDflSSyDcThQQ3xo2BA",
+      "file_name": "الحركة و القوي و قوانين نيوتن.pdf"
+    }
+  ],
+  "files": [
+    {
+      "id": "BQACAgQAAxkBAAIBemjfprGwQk-_Kfl1M4fwh4ZaYmsOAAJWGAACrg35UrJtSSeYcewBNgQ",
+      "name": "2-أسس الكيمياء - سابع.pdf",
+      "pathObj": {
+        "chapter": "F1",
+        "grade": "G5",
+        "subject": "science",
+        "lang": "ar",
+        "type": "molazem"
+      },
+      "added_by": 567126052,
+      "added_at": "2025-10-03T10:34:25.500Z"
+    },
+    {
+      "id": "BQACAgQAAxkBAAIBe2jfprHnhdurvx5VPLGP5x41iU-zAAJXGAACrg35UtrNt4YypIopNgQ",
+      "name": "3-فهم الذرة - سابع.pdf",
+      "pathObj": {
+        "chapter": "F1",
+        "grade": "G5",
+        "subject": "science",
+        "lang": "ar",
+        "type": "molazem"
+      },
+      "added_by": 567126052,
+      "added_at": "2025-10-03T10:34:25.502Z"
+    }
+  ],
+  "chapter2:grade5:science:arabic:student_book:add_file_prompt": [
+    {
+      "file_name": "2-أسس الكيمياء - سابع.pdf",
+      "file_id": "BQACAgQAAxkBAAIBqmjfswFL1r9H1LMIT98rLjt-Sm2xAAJkGAACrg35UreY5gtFBmgkNgQ"
+    },
+    {
+      "file_name": "3-فهم الذرة - سابع.pdf",
+      "file_id": "BQACAgQAAxkBAAIBq2jfswHgEQABCy71Yg8CvFes862WdQACZRgAAq4N-VJ_eVuEzf55vDYE"
+    }
+  ],
+  "initial:chapter1:grade5:science:arabic:arabic:malazem": [
+    {
+      "file_name": "2-أسس الكيمياء - سابع.pdf",
+      "file_id": "BQACAgQAAxkBAAIB5mjfwUEquIUpbH9HdEJxCfnZxd5MAAJzGAACrg35UudrdOlR_2YpNgQ"
+    },
+    {
+      "file_name": "3-فهم الذرة - سابع.pdf",
+      "file_id": "BQACAgQAAxkBAAIB52jfwUG2A2W_OkO06N7mh3SLy026AAJ0GAACrg35UhENbyz_e2ceNgQ"
+    }
+  ],
+  "initial:chapter1:grade9:science:arabic:malazem": [
+    {
+      "file_id": "BQACAgQAAxkBAAICeWjf9UaIjPfTEHVAtGZr8tcY4jWcAALhGgACrg0BU74t0OZBmDkMNgQ",
+      "file_name": "2-أسس الكيمياء - سابع.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAICemjf9UZ6hPPXzjbc6Z1tkOUjBEjUAALiGgACrg0BUyBUVy5vTrbINgQ",
+      "file_name": "3-فهم الذرة - سابع.pdf"
+    }
+  ],
+  "initial:chapter1:grade7:science:arabic:malazem": [
+    {
+      "file_id": "BQACAgQAAxkBAAICfmjf9aMY2a5tSzVeqFXAHGW6qFXiAALjGgACrg0BUzeZ9BGJNRhKNgQ",
+      "file_name": "2-أسس الكيمياء - سابع.pdf"
+    },
+    {
+      "file_id": "BQACAgQAAxkBAAICf2jf9aNw6wvbSPXMwmS8yWFLpBGyAALkGgACrg0BU7WP2wJNzJinNgQ",
+      "file_name": "3-فهم الذرة - سابع.pdf"
+    }
+  ]
+}
