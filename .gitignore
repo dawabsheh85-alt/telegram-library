@@ -1,20 +1,2 @@
-<<<<<<< HEAD
-# Environment variables - NEVER commit this file!
+node_modules
 .env
-
-# Dependencies
-node_modules/
-
-# Build output folder
-dist/
-=======
-# Environment variables - NEVER commit this file!
-.env
-
-# Dependencies
-node_modules/
-
-# Build output folder
-dist/
->>>>>>> e4740b82860a5e7e5921db2ca67bf8f8bcd47a85
-build/
